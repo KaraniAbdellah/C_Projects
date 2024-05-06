@@ -8,7 +8,7 @@ Here's a list of the projects included in this repository:
 
 | Project Name         | Description                                       | Link                               |
 |----------------------|---------------------------------------------------|------------------------------------|
-| Project 1            | Description of project 1                          | [Project 1](./Project1/)          |
+| Project 1            | Description of project 1                          | [Project 1](https://github.com/KaraniAbdellah/library_project)          |
 | Project 2            | Description of project 2                          | [Project 2](./Project2/)          |
 | Project 3            | Description of project 3                          | [Project 3](./Project3/)          |
 | Project 4            | Description of project 4                          | [Project 4](./Project4/)          |
